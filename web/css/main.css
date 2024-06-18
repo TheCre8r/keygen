@@ -8,7 +8,7 @@ body {
 }
 
 a {
-    color: #e2bd00;
+    color: #0db7ed;
 }
 
 a:active {
@@ -116,7 +116,7 @@ h1 img {
     padding: 1em;
     width: 100%;
     text-transform: uppercase;
-    background-color: #e2bd00;
+    background-color: #0db7ed;
     font-weight: bold;
     color: #333333;
     border: none;
